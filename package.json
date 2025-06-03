@@ -1,0 +1,23 @@
+{
+  "name": "newolfactoryconnect_pi",
+  "version": "1.0.0",
+  "description": "A simple terminal-based application to control a fan connected to a Raspberry Pi 5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyJunkins/newOlfactoryConnect_Pi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesleyJunkins/newOlfactoryConnect_Pi/issues"
+  },
+  "homepage": "https://github.com/WesleyJunkins/newOlfactoryConnect_Pi#readme",
+  "dependencies": {
+    "mqtt": "^5.13.1"
+  }
+}
